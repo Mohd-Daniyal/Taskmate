@@ -5,7 +5,9 @@
 
 
 TaskMate is a web-based task management application built using Django, HTML, and CSS. It allows users to manage tasks, create, read, update, and delete tasks, and provides user authentication and login features.
+
 ![2](https://github.com/Mohd-Daniyal/Taskmate/assets/96229438/97953ecc-325a-4772-85d7-7b7e47832263)
+
 
 ## Table of Contents
 
@@ -82,7 +84,9 @@ TaskMate allows users to manage tasks with the following CRUD operations:
 - Read (View) tasks
 - Update task details
 - Delete tasks
+  
 ![3](https://github.com/Mohd-Daniyal/Taskmate/assets/96229438/2438087a-83d0-4b73-a432-6d35aa267350)
+
 
 ## Contributing
 
